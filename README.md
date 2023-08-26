@@ -1,2 +1,3 @@
 # first-demo_folder
-this is my first git repository
+This is my first git repository
+Author: Vaishnavi Dolas
